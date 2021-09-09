@@ -1,0 +1,30 @@
+.body{
+    
+      }
+}
+.najwa{
+    font-weight: 900;
+    color: red;
+}
+.bnajwa{
+    font-weight: 900;
+}
+.annajwa{
+    color: red;
+    font-weight: 900;
+}
+.middle{
+    margin-bottom: 300px;
+    background-color: rgba(0, 0, 0, .6);
+}
+.rony{
+    max-height: 900px;
+    max-width: 1500px;
+}
+.sobuj{
+    font-weight: 900;
+    color: #27ae60;
+}
+img{
+    max-width: 100%;
+}
